@@ -805,17 +805,6 @@
    "hintQty": 250
   },
   {
-   "id": "i17sb9jr",
-   "name": "Κεράσια",
-   "cat": "Φ",
-   "unit": "kg",
-   "price": 3,
-   "pieceG": null,
-   "notes": "1 / άτομο",
-   "hintMode": "g",
-   "hintQty": 200
-  },
-  {
    "id": "i17sc583",
    "name": "Ψωμάκια Μπέργκερ",
    "cat": "Χ",
@@ -2360,5 +2349,6 @@
   "i17ra2qs": 1,
   "i17qixul": 1,
   "i17sdhfl": 1
- }
+ },
+ "have": {}
 }

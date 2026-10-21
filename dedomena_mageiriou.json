@@ -1,0 +1,2365 @@
+{
+ "v": 1,
+ "ingredients": [
+  {
+   "id": "i17qa7ti",
+   "name": "Αυγό",
+   "cat": "Δ",
+   "unit": "pcs",
+   "price": 0.2,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "pcs",
+   "hintQty": 1
+  },
+  {
+   "id": "i17qbgyo",
+   "name": "Γάλα Φρέσκο (1 lt)",
+   "cat": "Ψ",
+   "unit": "kg",
+   "price": 1.15,
+   "pieceG": 1000,
+   "notes": "",
+   "hintMode": "ppp",
+   "hintQty": 5
+  },
+  {
+   "id": "i17qc41q",
+   "name": "Γάλα (Φαγητό)",
+   "cat": "Δ",
+   "unit": "pcs",
+   "price": 0.5,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "ppp",
+   "hintQty": 8
+  },
+  {
+   "id": "i17qdzn6",
+   "name": "Δημητριακά",
+   "cat": "Δ",
+   "unit": "kg",
+   "price": 4.5,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "g",
+   "hintQty": 75
+  },
+  {
+   "id": "i17qew7p",
+   "name": "Κέικ",
+   "cat": "Δ",
+   "unit": "kg",
+   "price": 6,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "g",
+   "hintQty": 75
+  },
+  {
+   "id": "i17qfbog",
+   "name": "Κράκερ",
+   "cat": "Δ",
+   "unit": "pcs",
+   "price": 0.95,
+   "pieceG": null,
+   "notes": "2 κράκερ / άτομο",
+   "hintMode": "ppp",
+   "hintQty": 8
+  },
+  {
+   "id": "i17qgp9a",
+   "name": "Κρέμα Γάλακτος",
+   "cat": "Δ",
+   "unit": "kg",
+   "price": 6,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "g",
+   "hintQty": 40
+  },
+  {
+   "id": "i17qhbbe",
+   "name": "Κριθαράκι",
+   "cat": "Δ",
+   "unit": "kg",
+   "price": 1.3,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "g",
+   "hintQty": 80
+  },
+  {
+   "id": "i17qixul",
+   "name": "Κριτσίνια",
+   "cat": "Χ",
+   "unit": "kg",
+   "price": 14,
+   "pieceG": null,
+   "notes": "6 κριτσίνια / άτομο",
+   "hintMode": "ppp",
+   "hintQty": 7
+  },
+  {
+   "id": "i17qj0l6",
+   "name": "Παξιμάδια",
+   "cat": "Δ",
+   "unit": "kg",
+   "price": 4,
+   "pieceG": null,
+   "notes": "2 / άτομο",
+   "hintMode": "g",
+   "hintQty": 35
+  },
+  {
+   "id": "i17qkb40",
+   "name": "Σκόρδο Σκόνη",
+   "cat": "Δ",
+   "unit": "pcs",
+   "price": 1,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "fixed",
+   "hintQty": null
+  },
+  {
+   "id": "i17qldx6",
+   "name": "Μέλι",
+   "cat": "Δ",
+   "unit": "pcs",
+   "price": 6,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "fixed",
+   "hintQty": null
+  },
+  {
+   "id": "i17qmtes",
+   "name": "Βανίλιες",
+   "cat": "Δ",
+   "unit": "pcs",
+   "price": 1,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "fixed",
+   "hintQty": null
+  },
+  {
+   "id": "i17qn94k",
+   "name": "Μπέικιν πάουντερ",
+   "cat": "Δ",
+   "unit": "pcs",
+   "price": 1,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "fixed",
+   "hintQty": null
+  },
+  {
+   "id": "i17qo96p",
+   "name": "Κρεμμύδι σκόνη",
+   "cat": "Δ",
+   "unit": "pcs",
+   "price": 2,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "fixed",
+   "hintQty": null
+  },
+  {
+   "id": "i17qpcd4",
+   "name": "Αγγουράκια Πίκλες (200γρ)",
+   "cat": "Δ",
+   "unit": "pcs",
+   "price": 2,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "ppp",
+   "hintQty": 13
+  },
+  {
+   "id": "i17qqzh9",
+   "name": "Αλεύρι φαρίνα",
+   "cat": "Δ",
+   "unit": "kg",
+   "price": 1.1,
+   "pieceG": null,
+   "notes": "1 μεγάλη κονσέρβα / 10 άτομα",
+   "hintMode": "g",
+   "hintQty": 70
+  },
+  {
+   "id": "i17qrbgo",
+   "name": "Μαγιονέζα",
+   "cat": "Δ",
+   "unit": "pcs",
+   "price": 2,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "ppp",
+   "hintQty": 15
+  },
+  {
+   "id": "i17qsefc",
+   "name": "Μανιτάρια Κομμένα",
+   "cat": "Δ",
+   "unit": "kg",
+   "price": 4.78,
+   "pieceG": null,
+   "notes": "1 μεγάλη κονσέρβα / 10 άτομα",
+   "hintMode": "g",
+   "hintQty": 30
+  },
+  {
+   "id": "i17qthto",
+   "name": "Μαρμελάδα",
+   "cat": "Δ",
+   "unit": "kg",
+   "price": 4.3,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "g",
+   "hintQty": 30
+  },
+  {
+   "id": "i17quxr8",
+   "name": "Μερέντα",
+   "cat": "Δ",
+   "unit": "kg",
+   "price": 4,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "g",
+   "hintQty": 50
+  },
+  {
+   "id": "i17qv0ox",
+   "name": "Μουστάρδα",
+   "cat": "Δ",
+   "unit": "pcs",
+   "price": 2,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "ppp",
+   "hintQty": 10
+  },
+  {
+   "id": "i17qwb7c",
+   "name": "Μπισκότα Πτι-Μπερ",
+   "cat": "Δ",
+   "unit": "pcs",
+   "price": 2,
+   "pieceG": null,
+   "notes": "5 - 6 μπισκότα / άτομο",
+   "hintMode": "ppp",
+   "hintQty": 8
+  },
+  {
+   "id": "i17qxwkc",
+   "name": "Ντάκος (Παξιμάδι)",
+   "cat": "Δ",
+   "unit": "pcs",
+   "price": 3.3,
+   "pieceG": null,
+   "notes": "1 παξιμάδι / 2 άτομα",
+   "hintMode": "ppp",
+   "hintQty": 10
+  },
+  {
+   "id": "i17qy22k",
+   "name": "Ντοματοπελτές (200γρ)",
+   "cat": "Δ",
+   "unit": "pcs",
+   "price": 0.7,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "fixed",
+   "hintQty": null
+  },
+  {
+   "id": "i17qztoe",
+   "name": "Ντοματοχυμός",
+   "cat": "Δ",
+   "unit": "pcs",
+   "price": 1,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "ppp",
+   "hintQty": 10
+  },
+  {
+   "id": "i17r0r2s",
+   "name": "Παστέλι",
+   "cat": "Δ",
+   "unit": "pcs",
+   "price": 0.7,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "ppp",
+   "hintQty": 2
+  },
+  {
+   "id": "i17r1l8k",
+   "name": "Πατατακια",
+   "cat": "Δ",
+   "unit": "pcs",
+   "price": 0.98,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "ppp",
+   "hintQty": 5
+  },
+  {
+   "id": "i17r2dt7",
+   "name": "Πέννες",
+   "cat": "Δ",
+   "unit": "kg",
+   "price": 1.3,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "g",
+   "hintQty": 90
+  },
+  {
+   "id": "i17r395o",
+   "name": "Φυστίκια Αιγίνης",
+   "cat": "Δ",
+   "unit": "kg",
+   "price": 1.3,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "g",
+   "hintQty": 7
+  },
+  {
+   "id": "i17r42hu",
+   "name": "Πουρές Πατάτας",
+   "cat": "Δ",
+   "unit": "kg",
+   "price": 5.6,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "g",
+   "hintQty": 30
+  },
+  {
+   "id": "i17r5n72",
+   "name": "Τορτελίνια",
+   "cat": "Δ",
+   "unit": "kg",
+   "price": 5.5,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "g",
+   "hintQty": 60
+  },
+  {
+   "id": "i17r6c4i",
+   "name": "Ρύζι",
+   "cat": "Δ",
+   "unit": "kg",
+   "price": 1.7,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "g",
+   "hintQty": 70
+  },
+  {
+   "id": "i17r7hg3",
+   "name": "Τσουρέκι",
+   "cat": "Δ",
+   "unit": "kg",
+   "price": 5.25,
+   "pieceG": null,
+   "notes": "1 φέτα / άτομο",
+   "hintMode": "g",
+   "hintQty": 40
+  },
+  {
+   "id": "i17r88uk",
+   "name": "Φακές",
+   "cat": "Δ",
+   "unit": "kg",
+   "price": 1.8,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "g",
+   "hintQty": 50
+  },
+  {
+   "id": "i17r9miq",
+   "name": "Χυμός",
+   "cat": "Δ",
+   "unit": "pcs",
+   "price": 0.7,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "ppp",
+   "hintQty": 5
+  },
+  {
+   "id": "i17ra2qs",
+   "name": "Ψωμάκια σάντουιτς",
+   "cat": "Χ",
+   "unit": "pcs",
+   "price": 1.25,
+   "pieceG": null,
+   "notes": "1 / άτομο",
+   "hintMode": "ppp",
+   "hintQty": 6
+  },
+  {
+   "id": "i17rbo5m",
+   "name": "Ανάμικτα Λαχανικά",
+   "cat": "Κ",
+   "unit": "kg",
+   "price": 7.5,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "g",
+   "hintQty": 40
+  },
+  {
+   "id": "i17rc4v5",
+   "name": "Αρακάς",
+   "cat": "Κ",
+   "unit": "kg",
+   "price": 1.95,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "g",
+   "hintQty": 90
+  },
+  {
+   "id": "i17rd57d",
+   "name": "Κεφτεδάκια",
+   "cat": "Κ",
+   "unit": "kg",
+   "price": 9.5,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "g",
+   "hintQty": 60
+  },
+  {
+   "id": "i17re95u",
+   "name": "Φασολάκια",
+   "cat": "Κ",
+   "unit": "kg",
+   "price": 1.95,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "g",
+   "hintQty": 100
+  },
+  {
+   "id": "i17rf9br",
+   "name": "Σπανάκι",
+   "cat": "Κ",
+   "unit": "kg",
+   "price": 1.95,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "g",
+   "hintQty": 90
+  },
+  {
+   "id": "i17rgek2",
+   "name": "Παγωτό",
+   "cat": "Κ",
+   "unit": "kg",
+   "price": 4,
+   "pieceG": null,
+   "notes": "1 μπάλα / άτομο",
+   "hintMode": "g",
+   "hintQty": 90
+  },
+  {
+   "id": "i17rhdmz",
+   "name": "Ψαροκροκέτες",
+   "cat": "Κ",
+   "unit": "kg",
+   "price": 4.7,
+   "pieceG": null,
+   "notes": "3 μικρές /άτομο",
+   "hintMode": "g",
+   "hintQty": 140
+  },
+  {
+   "id": "i17ri76y",
+   "name": "Αγγούρι",
+   "cat": "Λ",
+   "unit": "pcs",
+   "price": 0.6,
+   "pieceG": null,
+   "notes": "1 μεγάλο ανα 5 άτομα",
+   "hintMode": "ppp",
+   "hintQty": 6
+  },
+  {
+   "id": "i17rjooq",
+   "name": "Λάχανο",
+   "cat": "Λ",
+   "unit": "kg",
+   "price": 1.3,
+   "pieceG": null,
+   "notes": "1 μεγάλο / 3 άτομα",
+   "hintMode": "g",
+   "hintQty": 70
+  },
+  {
+   "id": "i17rk2dt",
+   "name": "Καρότα",
+   "cat": "Λ",
+   "unit": "kg",
+   "price": 0.9,
+   "pieceG": null,
+   "notes": "1 μεσαίο / 5 άτομα",
+   "hintMode": "g",
+   "hintQty": 20
+  },
+  {
+   "id": "i17rl4xo",
+   "name": "Κολοκύθια",
+   "cat": "Λ",
+   "unit": "kg",
+   "price": 1.3,
+   "pieceG": null,
+   "notes": "1 μεγάλο / 4 άτομα",
+   "hintMode": "g",
+   "hintQty": 70
+  },
+  {
+   "id": "i17rmk0f",
+   "name": "Κρεμμυδάκι φρέσκο",
+   "cat": "Λ",
+   "unit": "pcs",
+   "price": 0.7,
+   "pieceG": null,
+   "notes": "1 μεγάλο / 10 άτομα",
+   "hintMode": "ppp",
+   "hintQty": 4
+  },
+  {
+   "id": "i17rn2k9",
+   "name": "Σκόρδο",
+   "cat": "Λ",
+   "unit": "pcs",
+   "price": 0.5,
+   "pieceG": null,
+   "notes": "1 μεγάλο / 10 άτομα",
+   "hintMode": "ppp",
+   "hintQty": 40
+  },
+  {
+   "id": "i17rottb",
+   "name": "Κρεμμύδι ξερό",
+   "cat": "Λ",
+   "unit": "kg",
+   "price": 1.2,
+   "pieceG": null,
+   "notes": "1 μεσαίο / 6 άτομα",
+   "hintMode": "g",
+   "hintQty": 30
+  },
+  {
+   "id": "i17rpgn6",
+   "name": "Μαρούλι",
+   "cat": "Λ",
+   "unit": "pcs",
+   "price": 0.7,
+   "pieceG": null,
+   "notes": "1 μεγάλο / 10 άτομα",
+   "hintMode": "ppp",
+   "hintQty": 10
+  },
+  {
+   "id": "i17rq546",
+   "name": "Μελιτζάνες",
+   "cat": "Λ",
+   "unit": "kg",
+   "price": 1.4,
+   "pieceG": null,
+   "notes": "1 μεγάλη / 5 άτομα",
+   "hintMode": "g",
+   "hintQty": 90
+  },
+  {
+   "id": "i17rre4e",
+   "name": "Ντομάτα",
+   "cat": "Λ",
+   "unit": "kg",
+   "price": 1.55,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "g",
+   "hintQty": 75
+  },
+  {
+   "id": "i17rsdhx",
+   "name": "Πατάτες",
+   "cat": "Λ",
+   "unit": "kg",
+   "price": 0.75,
+   "pieceG": null,
+   "notes": "1 μεσαία / 2 άτομα",
+   "hintMode": "g",
+   "hintQty": 150
+  },
+  {
+   "id": "i17rtg6q",
+   "name": "Πιπεριές Φλωρίνης",
+   "cat": "Λ",
+   "unit": "kg",
+   "price": 2.1,
+   "pieceG": null,
+   "notes": "1 μεγάλη / 3 άτομα",
+   "hintMode": "g",
+   "hintQty": 70
+  },
+  {
+   "id": "i17ruasd",
+   "name": "Δεντρολίβανο",
+   "cat": "Σ",
+   "unit": "pcs",
+   "price": 1,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "fixed",
+   "hintQty": null
+  },
+  {
+   "id": "i17rvtu1",
+   "name": "Γλυκιά Πάπρικα",
+   "cat": "Σ",
+   "unit": "pcs",
+   "price": 0.7,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "fixed",
+   "hintQty": null
+  },
+  {
+   "id": "i17rw8e5",
+   "name": "Κόκκινο Πιπέρι Ολόκληρο",
+   "cat": "Σ",
+   "unit": "pcs",
+   "price": 0.7,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "fixed",
+   "hintQty": null
+  },
+  {
+   "id": "i17rx77d",
+   "name": "Ζάχαρη",
+   "cat": "Σ",
+   "unit": "pcs",
+   "price": 0.8,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "fixed",
+   "hintQty": null
+  },
+  {
+   "id": "i17ry0gr",
+   "name": "Αλάτι",
+   "cat": "Σ",
+   "unit": "pcs",
+   "price": 0.4,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "fixed",
+   "hintQty": null
+  },
+  {
+   "id": "i17rzl8i",
+   "name": "Χονδρό Αλάτι",
+   "cat": "Σ",
+   "unit": "pcs",
+   "price": 0.4,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "fixed",
+   "hintQty": null
+  },
+  {
+   "id": "i17s031r",
+   "name": "Ρίγανη",
+   "cat": "Σ",
+   "unit": "pcs",
+   "price": 1,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "fixed",
+   "hintQty": null
+  },
+  {
+   "id": "i17s1j8u",
+   "name": "Μοσχοκάρυδο",
+   "cat": "Σ",
+   "unit": "pcs",
+   "price": 1,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "fixed",
+   "hintQty": null
+  },
+  {
+   "id": "i17s26e1",
+   "name": "Ηλιέλαιο / Αραβοσιτέλαιο",
+   "cat": "Σ",
+   "unit": "pcs",
+   "price": 1.45,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "fixed",
+   "hintQty": null
+  },
+  {
+   "id": "i17s3yjb",
+   "name": "Ξύδι",
+   "cat": "Σ",
+   "unit": "pcs",
+   "price": 0.75,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "fixed",
+   "hintQty": null
+  },
+  {
+   "id": "i17s4f48",
+   "name": "Μηλόξυδο",
+   "cat": "Σ",
+   "unit": "pcs",
+   "price": 0.75,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "fixed",
+   "hintQty": null
+  },
+  {
+   "id": "i17s585s",
+   "name": "Ελαιόλαδο",
+   "cat": "Σ",
+   "unit": "kg",
+   "price": 6,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "fixed",
+   "hintQty": null
+  },
+  {
+   "id": "i17s6t2t",
+   "name": "Χυμός Λεμονιού",
+   "cat": "Σ",
+   "unit": "pcs",
+   "price": 0.36,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "ppp",
+   "hintQty": 10
+  },
+  {
+   "id": "i17s7nfl",
+   "name": "Καρπούζι",
+   "cat": "Φ",
+   "unit": "kg",
+   "price": 0.65,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "g",
+   "hintQty": 300
+  },
+  {
+   "id": "i17s8mf7",
+   "name": "Μπανάνες",
+   "cat": "Φ",
+   "unit": "kg",
+   "price": 1.4,
+   "pieceG": null,
+   "notes": "1 μικρή μπανάνα / 2 άτομα",
+   "hintMode": "g",
+   "hintQty": 100
+  },
+  {
+   "id": "i17s9q8i",
+   "name": "Πεπόνι",
+   "cat": "Φ",
+   "unit": "kg",
+   "price": 1.4,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "g",
+   "hintQty": 100
+  },
+  {
+   "id": "i17sasfi",
+   "name": "Ροδάκινο",
+   "cat": "Φ",
+   "unit": "kg",
+   "price": 2,
+   "pieceG": null,
+   "notes": "1 / άτομο",
+   "hintMode": "g",
+   "hintQty": 250
+  },
+  {
+   "id": "i17sc583",
+   "name": "Ψωμάκια Μπέργκερ",
+   "cat": "Χ",
+   "unit": "pcs",
+   "price": 0.25,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "ppp",
+   "hintQty": 1
+  },
+  {
+   "id": "i17sdhfl",
+   "name": "Ψωμί",
+   "cat": "Χ",
+   "unit": "kg",
+   "price": 2.3,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "g",
+   "hintQty": 70
+  },
+  {
+   "id": "i17seikc",
+   "name": "Ματσάκι Βασιλικού Πλατύ",
+   "cat": "Ψ",
+   "unit": "pcs",
+   "price": 2,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "ppp",
+   "hintQty": 12
+  },
+  {
+   "id": "i17sfopk",
+   "name": "Κιμάς Ανάμεικτος",
+   "cat": "Ψ",
+   "unit": "kg",
+   "price": 9,
+   "pieceG": null,
+   "notes": "3 καλαμάκια / 2 άτομα",
+   "hintMode": "g",
+   "hintQty": 110
+  },
+  {
+   "id": "i17sg3jv",
+   "name": "Γιαούρτι",
+   "cat": "Ψ",
+   "unit": "kg",
+   "price": 2.2,
+   "pieceG": null,
+   "notes": "3 καλαμάκια / 2 άτομα",
+   "hintMode": "g",
+   "hintQty": 50
+  },
+  {
+   "id": "i17shavx",
+   "name": "Κιμάς Χοιρινός",
+   "cat": "Ψ",
+   "unit": "kg",
+   "price": 3.2,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "g",
+   "hintQty": 90
+  },
+  {
+   "id": "i17sir7o",
+   "name": "Βούτυρο (Μαργαρίνη)",
+   "cat": "Ψ",
+   "unit": "kg",
+   "price": 3.48,
+   "pieceG": null,
+   "notes": "3 καλαμάκια / 2 άτομα",
+   "hintMode": "g",
+   "hintQty": 17
+  },
+  {
+   "id": "i17sj6f2",
+   "name": "Χοιρινό Μπούτι ή Σπάλα",
+   "cat": "Ψ",
+   "unit": "kg",
+   "price": 3.2,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "g",
+   "hintQty": 120
+  },
+  {
+   "id": "i17skqlq",
+   "name": "Κοτόπουλο μπουτάκι",
+   "cat": "Ψ",
+   "unit": "kg",
+   "price": 6.5,
+   "pieceG": null,
+   "notes": "1 μπουτάκι ανά άτομο",
+   "hintMode": "g",
+   "hintQty": 100
+  },
+  {
+   "id": "i17slkh1",
+   "name": "Λουκάνικα Φρανκφούρτης",
+   "cat": "Ψ",
+   "unit": "kg",
+   "price": 4.2,
+   "pieceG": null,
+   "notes": "1 / άτομο",
+   "hintMode": "g",
+   "hintQty": 100
+  },
+  {
+   "id": "i17smpwb",
+   "name": "Γαύρος",
+   "cat": "Ψ",
+   "unit": "kg",
+   "price": 4.2,
+   "pieceG": null,
+   "notes": "1 / άτομο",
+   "hintMode": "g",
+   "hintQty": 50
+  },
+  {
+   "id": "i17sn55v",
+   "name": "Λουκάνικα Χωριάτικα",
+   "cat": "Ψ",
+   "unit": "kg",
+   "price": 7.4,
+   "pieceG": null,
+   "notes": "1 μικρό / άτομο ή 1 μεγάλο / 4 άτομα",
+   "hintMode": "g",
+   "hintQty": 80
+  },
+  {
+   "id": "i17soggp",
+   "name": "Μπέικον",
+   "cat": "Ψ",
+   "unit": "kg",
+   "price": 7.8,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "g",
+   "hintQty": 30
+  },
+  {
+   "id": "i17spq0x",
+   "name": "Τζατζίκι",
+   "cat": "Ψ",
+   "unit": "kg",
+   "price": 5.9,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "g",
+   "hintQty": 25
+  },
+  {
+   "id": "i17sq05d",
+   "name": "Σνίτσελ",
+   "cat": "Ψ",
+   "unit": "kg",
+   "price": 5.9,
+   "pieceG": null,
+   "notes": "1 / 2 άτομα",
+   "hintMode": "g",
+   "hintQty": 100
+  },
+  {
+   "id": "i17srfn8",
+   "name": "Τυρί Κρέμα",
+   "cat": "Ψ",
+   "unit": "kg",
+   "price": 6,
+   "pieceG": null,
+   "notes": "1,5 ανα εξάδα",
+   "hintMode": "ppp",
+   "hintQty": 8
+  },
+  {
+   "id": "i17ss0qc",
+   "name": "Τυρί Τριμμένο Η Για τρίψιμο",
+   "cat": "Ψ",
+   "unit": "kg",
+   "price": 7,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "g",
+   "hintQty": 25
+  },
+  {
+   "id": "i17stpqg",
+   "name": "Παρμεζάνα",
+   "cat": "Ψ",
+   "unit": "kg",
+   "price": 23,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "g",
+   "hintQty": 10
+  },
+  {
+   "id": "i17suipn",
+   "name": "Φέτα",
+   "cat": "Ψ",
+   "unit": "kg",
+   "price": 5.9,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "g",
+   "hintQty": 60
+  },
+  {
+   "id": "i17u7ujw",
+   "name": "Κεμπάπ",
+   "cat": "Ψ",
+   "unit": "kg",
+   "price": 8,
+   "pieceG": 100,
+   "notes": "",
+   "hintMode": "g",
+   "hintQty": null
+  },
+  {
+   "id": "i17uanvh",
+   "name": "Μήλο",
+   "cat": "Φ",
+   "unit": "kg",
+   "price": 2,
+   "pieceG": 100,
+   "notes": "",
+   "hintMode": "g",
+   "hintQty": null
+  },
+  {
+   "id": "i1qida2r",
+   "name": "Κεράσια",
+   "cat": "Φ",
+   "unit": "kg",
+   "price": 4,
+   "pieceG": null,
+   "notes": "",
+   "hintMode": "g",
+   "hintQty": null
+  }
+ ],
+ "recipes": [
+  {
+   "id": "r17svjtc",
+   "name": "Γάλα με δημητριακά",
+   "aliases": "",
+   "kind": "Πρωινό",
+   "lines": [
+    {
+     "ing": "i17qbgyo",
+     "mode": "ppp",
+     "qty": 5
+    },
+    {
+     "ing": "i17qdzn6",
+     "mode": "g",
+     "qty": 75
+    }
+   ]
+  },
+  {
+   "id": "r17swha7",
+   "name": "Βάφλες με μερέντα και γάλα",
+   "aliases": "",
+   "kind": "Πρωινό",
+   "lines": [
+    {
+     "ing": "i17qqzh9",
+     "mode": "g",
+     "qty": 70
+    },
+    {
+     "ing": "i17qa7ti",
+     "mode": "pcs",
+     "qty": 0.4
+    },
+    {
+     "ing": "i17qbgyo",
+     "mode": "ppp",
+     "qty": 3.5
+    },
+    {
+     "ing": "i17quxr8",
+     "mode": "g",
+     "qty": 25
+    },
+    {
+     "ing": "i17sir7o",
+     "mode": "g",
+     "qty": 10
+    },
+    {
+     "ing": "i17qmtes",
+     "mode": "fixed",
+     "qty": 1
+    },
+    {
+     "ing": "i17qn94k",
+     "mode": "fixed",
+     "qty": 1
+    }
+   ]
+  },
+  {
+   "id": "r17sxkc9",
+   "name": "Ψωμί με μαρμελάδα και γάλα",
+   "aliases": "",
+   "kind": "Πρωινό",
+   "lines": [
+    {
+     "ing": "i17sdhfl",
+     "mode": "g",
+     "qty": 100
+    },
+    {
+     "ing": "i17qthto",
+     "mode": "g",
+     "qty": 50
+    },
+    {
+     "ing": "i17qbgyo",
+     "mode": "g",
+     "qty": 250
+    }
+   ]
+  },
+  {
+   "id": "r17sycwa",
+   "name": "Στικς λαχανικών με παξιμάδι και τζατζίκι",
+   "aliases": "",
+   "kind": "Σνακ",
+   "lines": [
+    {
+     "ing": "i17rk2dt",
+     "mode": "g",
+     "qty": 20
+    },
+    {
+     "ing": "i17ri76y",
+     "mode": "ppp",
+     "qty": 6
+    },
+    {
+     "ing": "i17qj0l6",
+     "mode": "g",
+     "qty": 35
+    },
+    {
+     "ing": "i17spq0x",
+     "mode": "g",
+     "qty": 25
+    }
+   ]
+  },
+  {
+   "id": "r17szetk",
+   "name": "Κριτσίνια με τυρί κρέμα",
+   "aliases": "",
+   "kind": "Σνακ",
+   "lines": [
+    {
+     "ing": "i17qixul",
+     "mode": "g",
+     "qty": 100
+    },
+    {
+     "ing": "i17srfn8",
+     "mode": "g",
+     "qty": 50
+    }
+   ]
+  },
+  {
+   "id": "r17t0o2f",
+   "name": "Παστέλι με λεμονάδα",
+   "aliases": "Λεμονάδα με παστέλι",
+   "kind": "Σνακ",
+   "lines": [
+    {
+     "ing": "i17r0r2s",
+     "mode": "ppp",
+     "qty": 2
+    },
+    {
+     "ing": "i17s6t2t",
+     "mode": "ppp",
+     "qty": 10
+    }
+   ]
+  },
+  {
+   "id": "r17t1zi7",
+   "name": "Ντάκος",
+   "aliases": "",
+   "kind": "Σνακ",
+   "lines": [
+    {
+     "ing": "i17qxwkc",
+     "mode": "ppp",
+     "qty": 10
+    },
+    {
+     "ing": "i17rre4e",
+     "mode": "g",
+     "qty": 75
+    },
+    {
+     "ing": "i17suipn",
+     "mode": "g",
+     "qty": 30
+    }
+   ]
+  },
+  {
+   "id": "r17t2373",
+   "name": "Βραστό αυγό",
+   "aliases": "",
+   "kind": "Σνακ",
+   "lines": [
+    {
+     "ing": "i17qa7ti",
+     "mode": "pcs",
+     "qty": 1
+    }
+   ]
+  },
+  {
+   "id": "r17t3iij",
+   "name": "Κράκερ",
+   "aliases": "",
+   "kind": "Σνακ",
+   "lines": [
+    {
+     "ing": "i17qfbog",
+     "mode": "ppp",
+     "qty": 8
+    }
+   ]
+  },
+  {
+   "id": "r17t44xz",
+   "name": "Μπρουσκέτες με ντομάτα",
+   "aliases": "",
+   "kind": "Σνακ",
+   "lines": [
+    {
+     "ing": "i17sdhfl",
+     "mode": "g",
+     "qty": 50
+    },
+    {
+     "ing": "i17rre4e",
+     "mode": "g",
+     "qty": 75
+    },
+    {
+     "ing": "i17rn2k9",
+     "mode": "ppp",
+     "qty": 40
+    }
+   ]
+  },
+  {
+   "id": "r17t5fy3",
+   "name": "Ψωμί με μερέντα και μπανάνα",
+   "aliases": "",
+   "kind": "Σνακ",
+   "lines": [
+    {
+     "ing": "i17sdhfl",
+     "mode": "g",
+     "qty": 70
+    },
+    {
+     "ing": "i17quxr8",
+     "mode": "g",
+     "qty": 25
+    },
+    {
+     "ing": "i17s8mf7",
+     "mode": "g",
+     "qty": 100
+    }
+   ]
+  },
+  {
+   "id": "r17t6jyl",
+   "name": "Τσουρέκι με λεμονάδα",
+   "aliases": "",
+   "kind": "Σνακ",
+   "lines": [
+    {
+     "ing": "i17r7hg3",
+     "mode": "g",
+     "qty": 40
+    },
+    {
+     "ing": "i17s6t2t",
+     "mode": "ppp",
+     "qty": 10
+    }
+   ]
+  },
+  {
+   "id": "r17t7t9d",
+   "name": "Κέικ με βυσσινάδα",
+   "aliases": "",
+   "kind": "Σνακ",
+   "lines": [
+    {
+     "ing": "i17qew7p",
+     "mode": "g",
+     "qty": 75
+    },
+    {
+     "ing": "i17r9miq",
+     "mode": "ppp",
+     "qty": 5
+    }
+   ]
+  },
+  {
+   "id": "r17t86ud",
+   "name": "Μπισκότα με βυσσινάδα",
+   "aliases": "",
+   "kind": "Σνακ",
+   "lines": [
+    {
+     "ing": "i17qwb7c",
+     "mode": "ppp",
+     "qty": 8
+    },
+    {
+     "ing": "i17r9miq",
+     "mode": "ppp",
+     "qty": 5
+    }
+   ]
+  },
+  {
+   "id": "r17t9eyn",
+   "name": "Smoothie πεπόνι με παγωτό",
+   "aliases": "",
+   "kind": "Σνακ",
+   "lines": [
+    {
+     "ing": "i17s9q8i",
+     "mode": "g",
+     "qty": 100
+    },
+    {
+     "ing": "i17rgek2",
+     "mode": "g",
+     "qty": 45
+    },
+    {
+     "ing": "i17qbgyo",
+     "mode": "ppp",
+     "qty": 10
+    }
+   ]
+  },
+  {
+   "id": "r17ta9f6",
+   "name": "Γιαούρτι με φρούτα και μέλι",
+   "aliases": "",
+   "kind": "Σνακ",
+   "lines": [
+    {
+     "ing": "i17sg3jv",
+     "mode": "g",
+     "qty": 100
+    },
+    {
+     "ing": "i17sasfi",
+     "mode": "g",
+     "qty": 130
+    },
+    {
+     "ing": "i17qldx6",
+     "mode": "fixed",
+     "qty": 1
+    }
+   ]
+  },
+  {
+   "id": "r17tbiew",
+   "name": "Καρμπονάρα",
+   "aliases": "",
+   "kind": "Κυρίως",
+   "lines": [
+    {
+     "ing": "i17r2dt7",
+     "mode": "g",
+     "qty": 90
+    },
+    {
+     "ing": "i17soggp",
+     "mode": "g",
+     "qty": 30
+    },
+    {
+     "ing": "i17qgp9a",
+     "mode": "g",
+     "qty": 40
+    },
+    {
+     "ing": "i17qsefc",
+     "mode": "g",
+     "qty": 30
+    },
+    {
+     "ing": "i17stpqg",
+     "mode": "g",
+     "qty": 10
+    },
+    {
+     "ing": "i17rottb",
+     "mode": "g",
+     "qty": 30
+    },
+    {
+     "ing": "i17rn2k9",
+     "mode": "ppp",
+     "qty": 40
+    }
+   ]
+  },
+  {
+   "id": "r17tc3ch",
+   "name": "Κριθαράκι κοκκινιστό κοτόπουλο",
+   "aliases": "",
+   "kind": "Κυρίως",
+   "lines": [
+    {
+     "ing": "i17skqlq",
+     "mode": "g",
+     "qty": 100
+    },
+    {
+     "ing": "i17qhbbe",
+     "mode": "g",
+     "qty": 80
+    },
+    {
+     "ing": "i17qztoe",
+     "mode": "ppp",
+     "qty": 10
+    },
+    {
+     "ing": "i17rottb",
+     "mode": "g",
+     "qty": 30
+    },
+    {
+     "ing": "i17rn2k9",
+     "mode": "ppp",
+     "qty": 40
+    }
+   ]
+  },
+  {
+   "id": "r17td73m",
+   "name": "Μπριάμ κατσαρόλας",
+   "aliases": "",
+   "kind": "Κυρίως",
+   "lines": [
+    {
+     "ing": "i17rq546",
+     "mode": "g",
+     "qty": 90
+    },
+    {
+     "ing": "i17rl4xo",
+     "mode": "g",
+     "qty": 70
+    },
+    {
+     "ing": "i17rsdhx",
+     "mode": "g",
+     "qty": 150
+    },
+    {
+     "ing": "i17rk2dt",
+     "mode": "g",
+     "qty": 20
+    },
+    {
+     "ing": "i17rottb",
+     "mode": "g",
+     "qty": 30
+    },
+    {
+     "ing": "i17qztoe",
+     "mode": "ppp",
+     "qty": 10
+    },
+    {
+     "ing": "i17rn2k9",
+     "mode": "ppp",
+     "qty": 40
+    }
+   ]
+  },
+  {
+   "id": "r17texde",
+   "name": "Μακαρόνια με κιμά",
+   "aliases": "",
+   "kind": "Κυρίως",
+   "lines": [
+    {
+     "ing": "i17r2dt7",
+     "mode": "g",
+     "qty": 90
+    },
+    {
+     "ing": "i17shavx",
+     "mode": "g",
+     "qty": 90
+    },
+    {
+     "ing": "i17qztoe",
+     "mode": "ppp",
+     "qty": 10
+    },
+    {
+     "ing": "i17rottb",
+     "mode": "g",
+     "qty": 30
+    },
+    {
+     "ing": "i17ss0qc",
+     "mode": "g",
+     "qty": 25
+    }
+   ]
+  },
+  {
+   "id": "r17tfpro",
+   "name": "Πουρές πατάτας με λουκάνικα",
+   "aliases": "",
+   "kind": "Κυρίως",
+   "lines": [
+    {
+     "ing": "i17sn55v",
+     "mode": "g",
+     "qty": 80
+    },
+    {
+     "ing": "i17r42hu",
+     "mode": "g",
+     "qty": 30
+    },
+    {
+     "ing": "i17qc41q",
+     "mode": "ppp",
+     "qty": 8
+    },
+    {
+     "ing": "i17sir7o",
+     "mode": "g",
+     "qty": 17
+    },
+    {
+     "ing": "i17qgp9a",
+     "mode": "g",
+     "qty": 20
+    }
+   ]
+  },
+  {
+   "id": "r17tg7z5",
+   "name": "Φακόρυζο",
+   "aliases": "",
+   "kind": "Κυρίως",
+   "lines": [
+    {
+     "ing": "i17r88uk",
+     "mode": "g",
+     "qty": 50
+    },
+    {
+     "ing": "i17r6c4i",
+     "mode": "g",
+     "qty": 40
+    },
+    {
+     "ing": "i17rottb",
+     "mode": "g",
+     "qty": 30
+    },
+    {
+     "ing": "i17rk2dt",
+     "mode": "g",
+     "qty": 20
+    }
+   ]
+  },
+  {
+   "id": "r17thcs2",
+   "name": "Γαύρος μαρινάτος",
+   "aliases": "",
+   "kind": "Κυρίως",
+   "lines": [
+    {
+     "ing": "i17smpwb",
+     "mode": "g",
+     "qty": 50
+    },
+    {
+     "ing": "i17s6t2t",
+     "mode": "ppp",
+     "qty": 10
+    }
+   ]
+  },
+  {
+   "id": "r17ti8md",
+   "name": "Σνίτσελ με πουρέ πατάτας",
+   "aliases": "",
+   "kind": "Κυρίως",
+   "lines": [
+    {
+     "ing": "i17sq05d",
+     "mode": "g",
+     "qty": 100
+    },
+    {
+     "ing": "i17r42hu",
+     "mode": "g",
+     "qty": 30
+    },
+    {
+     "ing": "i17qc41q",
+     "mode": "ppp",
+     "qty": 8
+    },
+    {
+     "ing": "i17sir7o",
+     "mode": "g",
+     "qty": 17
+    }
+   ]
+  },
+  {
+   "id": "r17tjlaw",
+   "name": "Φασολάκια με κεφτεδάκια",
+   "aliases": "",
+   "kind": "Κυρίως",
+   "lines": [
+    {
+     "ing": "i17re95u",
+     "mode": "g",
+     "qty": 100
+    },
+    {
+     "ing": "i17rd57d",
+     "mode": "g",
+     "qty": 60
+    },
+    {
+     "ing": "i17rsdhx",
+     "mode": "g",
+     "qty": 75
+    },
+    {
+     "ing": "i17qztoe",
+     "mode": "ppp",
+     "qty": 10
+    },
+    {
+     "ing": "i17rottb",
+     "mode": "g",
+     "qty": 30
+    }
+   ]
+  },
+  {
+   "id": "r17tk437",
+   "name": "Τορτελίνια με χειροποίητο πέστο",
+   "aliases": "",
+   "kind": "Κυρίως",
+   "lines": [
+    {
+     "ing": "i17r5n72",
+     "mode": "g",
+     "qty": 125
+    },
+    {
+     "ing": "i17seikc",
+     "mode": "ppp",
+     "qty": 10
+    },
+    {
+     "ing": "i17r395o",
+     "mode": "g",
+     "qty": 15
+    },
+    {
+     "ing": "i17ss0qc",
+     "mode": "g",
+     "qty": 50
+    },
+    {
+     "ing": "i17rn2k9",
+     "mode": "ppp",
+     "qty": 25
+    }
+   ]
+  },
+  {
+   "id": "r17tlwj6",
+   "name": "Ρύζι και ψαροκροκέτες",
+   "aliases": "",
+   "kind": "Κυρίως",
+   "lines": [
+    {
+     "ing": "i17rhdmz",
+     "mode": "g",
+     "qty": 140
+    },
+    {
+     "ing": "i17r6c4i",
+     "mode": "g",
+     "qty": 70
+    },
+    {
+     "ing": "i17rbo5m",
+     "mode": "g",
+     "qty": 40
+    },
+    {
+     "ing": "i17s6t2t",
+     "mode": "ppp",
+     "qty": 10
+    }
+   ]
+  },
+  {
+   "id": "r17tmgo5",
+   "name": "Πατατοσαλάτα",
+   "aliases": "",
+   "kind": "Κυρίως",
+   "lines": [
+    {
+     "ing": "i17rsdhx",
+     "mode": "g",
+     "qty": 150
+    },
+    {
+     "ing": "i17qa7ti",
+     "mode": "pcs",
+     "qty": 0.4
+    },
+    {
+     "ing": "i17qpcd4",
+     "mode": "ppp",
+     "qty": 13
+    },
+    {
+     "ing": "i17qrbgo",
+     "mode": "ppp",
+     "qty": 15
+    },
+    {
+     "ing": "i17qv0ox",
+     "mode": "ppp",
+     "qty": 10
+    },
+    {
+     "ing": "i17rmk0f",
+     "mode": "ppp",
+     "qty": 4
+    }
+   ]
+  },
+  {
+   "id": "r17tn4u4",
+   "name": "Αρακάς",
+   "aliases": "",
+   "kind": "Κυρίως",
+   "lines": [
+    {
+     "ing": "i17rc4v5",
+     "mode": "g",
+     "qty": 90
+    },
+    {
+     "ing": "i17rsdhx",
+     "mode": "g",
+     "qty": 75
+    },
+    {
+     "ing": "i17rk2dt",
+     "mode": "g",
+     "qty": 20
+    },
+    {
+     "ing": "i17rottb",
+     "mode": "g",
+     "qty": 30
+    },
+    {
+     "ing": "i17qztoe",
+     "mode": "ppp",
+     "qty": 10
+    }
+   ]
+  },
+  {
+   "id": "r17to38j",
+   "name": "Χοιρινό λεμονάτο",
+   "aliases": "",
+   "kind": "Κυρίως",
+   "lines": [
+    {
+     "ing": "i17sj6f2",
+     "mode": "g",
+     "qty": 120
+    },
+    {
+     "ing": "i17rsdhx",
+     "mode": "g",
+     "qty": 150
+    },
+    {
+     "ing": "i17s6t2t",
+     "mode": "ppp",
+     "qty": 10
+    },
+    {
+     "ing": "i17qv0ox",
+     "mode": "ppp",
+     "qty": 10
+    },
+    {
+     "ing": "i17rn2k9",
+     "mode": "ppp",
+     "qty": 40
+    }
+   ]
+  },
+  {
+   "id": "r17tposs",
+   "name": "Σπανακόρυζο",
+   "aliases": "",
+   "kind": "Κυρίως",
+   "lines": [
+    {
+     "ing": "i17rf9br",
+     "mode": "g",
+     "qty": 90
+    },
+    {
+     "ing": "i17r6c4i",
+     "mode": "g",
+     "qty": 50
+    },
+    {
+     "ing": "i17rmk0f",
+     "mode": "ppp",
+     "qty": 4
+    },
+    {
+     "ing": "i17s6t2t",
+     "mode": "ppp",
+     "qty": 10
+    }
+   ]
+  },
+  {
+   "id": "r17tqhak",
+   "name": "Χειροποίητα tacos",
+   "aliases": "Tacos",
+   "kind": "Κυρίως",
+   "lines": [
+    {
+     "ing": "i17sfopk",
+     "mode": "g",
+     "qty": 110
+    },
+    {
+     "ing": "i17qqzh9",
+     "mode": "g",
+     "qty": 60
+    },
+    {
+     "ing": "i17rpgn6",
+     "mode": "ppp",
+     "qty": 20
+    },
+    {
+     "ing": "i17rre4e",
+     "mode": "g",
+     "qty": 40
+    },
+    {
+     "ing": "i17ss0qc",
+     "mode": "g",
+     "qty": 20
+    },
+    {
+     "ing": "i17qy22k",
+     "mode": "fixed",
+     "qty": 3
+    },
+    {
+     "ing": "i17qkb40",
+     "mode": "fixed",
+     "qty": 1
+    },
+    {
+     "ing": "i17qo96p",
+     "mode": "fixed",
+     "qty": 1
+    }
+   ]
+  },
+  {
+   "id": "r17trfdf",
+   "name": "Hot dog",
+   "aliases": "",
+   "kind": "Κυρίως",
+   "lines": [
+    {
+     "ing": "i17ra2qs",
+     "mode": "ppp",
+     "qty": 6
+    },
+    {
+     "ing": "i17slkh1",
+     "mode": "g",
+     "qty": 100
+    },
+    {
+     "ing": "i17qv0ox",
+     "mode": "ppp",
+     "qty": 10
+    },
+    {
+     "ing": "i17r1l8k",
+     "mode": "ppp",
+     "qty": 5
+    }
+   ]
+  },
+  {
+   "id": "r17tsdo8",
+   "name": "Σαλάτα λάχανο - καρότο",
+   "aliases": "Σ1",
+   "kind": "Σαλάτα",
+   "lines": [
+    {
+     "ing": "i17rjooq",
+     "mode": "g",
+     "qty": 70
+    },
+    {
+     "ing": "i17rk2dt",
+     "mode": "g",
+     "qty": 20
+    },
+    {
+     "ing": "i17s6t2t",
+     "mode": "ppp",
+     "qty": 10
+    }
+   ]
+  },
+  {
+   "id": "r17tt26q",
+   "name": "Μαρουλοσαλάτα",
+   "aliases": "Σ2",
+   "kind": "Σαλάτα",
+   "lines": [
+    {
+     "ing": "i17rpgn6",
+     "mode": "ppp",
+     "qty": 10
+    },
+    {
+     "ing": "i17rmk0f",
+     "mode": "ppp",
+     "qty": 4
+    },
+    {
+     "ing": "i17s6t2t",
+     "mode": "ppp",
+     "qty": 10
+    }
+   ]
+  },
+  {
+   "id": "r17tub4j",
+   "name": "Σαλάτα χωριάτικη",
+   "aliases": "Σ3",
+   "kind": "Σαλάτα",
+   "lines": [
+    {
+     "ing": "i17rre4e",
+     "mode": "g",
+     "qty": 75
+    },
+    {
+     "ing": "i17ri76y",
+     "mode": "ppp",
+     "qty": 6
+    },
+    {
+     "ing": "i17rtg6q",
+     "mode": "g",
+     "qty": 35
+    },
+    {
+     "ing": "i17rottb",
+     "mode": "g",
+     "qty": 15
+    },
+    {
+     "ing": "i17suipn",
+     "mode": "g",
+     "qty": 30
+    }
+   ]
+  },
+  {
+   "id": "r17tv963",
+   "name": "Σαλάτα αγγουροντομάτα",
+   "aliases": "Σ5, Αγγουροντομάτα",
+   "kind": "Σαλάτα",
+   "lines": [
+    {
+     "ing": "i17rre4e",
+     "mode": "g",
+     "qty": 75
+    },
+    {
+     "ing": "i17ri76y",
+     "mode": "ppp",
+     "qty": 6
+    }
+   ]
+  },
+  {
+   "id": "r17tw5yw",
+   "name": "Φέτα",
+   "aliases": "",
+   "kind": "Συνοδευτικό",
+   "lines": [
+    {
+     "ing": "i17suipn",
+     "mode": "g",
+     "qty": 60
+    }
+   ]
+  },
+  {
+   "id": "r17txu0x",
+   "name": "Ψωμί",
+   "aliases": "",
+   "kind": "Συνοδευτικό",
+   "lines": [
+    {
+     "ing": "i17sdhfl",
+     "mode": "g",
+     "qty": 70
+    }
+   ]
+  },
+  {
+   "id": "r17tycdv",
+   "name": "Παγωτό",
+   "aliases": "",
+   "kind": "Γλυκό",
+   "lines": [
+    {
+     "ing": "i17rgek2",
+     "mode": "g",
+     "qty": 90
+    }
+   ]
+  },
+  {
+   "id": "r17tztt0",
+   "name": "Καρπούζι",
+   "aliases": "",
+   "kind": "Φρούτο",
+   "lines": [
+    {
+     "ing": "i17s7nfl",
+     "mode": "g",
+     "qty": 300
+    }
+   ]
+  },
+  {
+   "id": "r17u022h",
+   "name": "Πεπόνι",
+   "aliases": "",
+   "kind": "Φρούτο",
+   "lines": [
+    {
+     "ing": "i17s9q8i",
+     "mode": "g",
+     "qty": 100
+    }
+   ]
+  },
+  {
+   "id": "r17u1irt",
+   "name": "Γρανίτα καρπούζι",
+   "aliases": "",
+   "kind": "Γλυκό",
+   "lines": [
+    {
+     "ing": "i17s7nfl",
+     "mode": "g",
+     "qty": 150
+    }
+   ]
+  },
+  {
+   "id": "r17u26x0",
+   "name": "Γρανίτα πεπόνι",
+   "aliases": "",
+   "kind": "Γλυκό",
+   "lines": [
+    {
+     "ing": "i17s9q8i",
+     "mode": "g",
+     "qty": 50
+    }
+   ]
+  },
+  {
+   "id": "r17u6tns",
+   "name": "Κεμπάπ σε ψωμάκι",
+   "aliases": "",
+   "kind": "Κυρίως",
+   "lines": [
+    {
+     "ing": "i17u7ujw",
+     "mode": "pcs",
+     "qty": 4
+    },
+    {
+     "ing": "i17ra2qs",
+     "mode": "pcs",
+     "qty": 2
+    },
+    {
+     "ing": "i17spq0x",
+     "mode": "g",
+     "qty": 50
+    },
+    {
+     "ing": "i17rre4e",
+     "mode": "g",
+     "qty": 50
+    },
+    {
+     "ing": "i17rottb",
+     "mode": "g",
+     "qty": 25
+    }
+   ]
+  },
+  {
+   "id": "r17u9cjc",
+   "name": "Νέα συνταγή",
+   "aliases": "",
+   "kind": "Κυρίως",
+   "lines": [
+    {
+     "ing": "i17uanvh",
+     "mode": "pcs",
+     "qty": 2
+    }
+   ]
+  },
+  {
+   "id": "r111yg90",
+   "name": "Μήλο",
+   "aliases": "",
+   "kind": "Φρούτο",
+   "lines": [
+    {
+     "ing": "i17uanvh",
+     "mode": "pcs",
+     "qty": 2
+    }
+   ]
+  }
+ ],
+ "staples": [
+  {
+   "ing": "i17s585s",
+   "qty": 1
+  },
+  {
+   "ing": "i17s26e1",
+   "qty": 0
+  },
+  {
+   "ing": "i17s3yjb",
+   "qty": 0
+  },
+  {
+   "ing": "i17s4f48",
+   "qty": 0
+  },
+  {
+   "ing": "i17rx77d",
+   "qty": 0
+  },
+  {
+   "ing": "i17ry0gr",
+   "qty": 2
+  },
+  {
+   "ing": "i17rzl8i",
+   "qty": 0
+  },
+  {
+   "ing": "i17s031r",
+   "qty": 1
+  },
+  {
+   "ing": "i17ruasd",
+   "qty": 0
+  },
+  {
+   "ing": "i17rvtu1",
+   "qty": 0
+  },
+  {
+   "ing": "i17rw8e5",
+   "qty": 0
+  },
+  {
+   "ing": "i17s1j8u",
+   "qty": 0
+  }
+ ],
+ "groups": [
+  {
+   "id": "g17u378s",
+   "name": "Λυκόπουλα",
+   "count": 20,
+   "coef": 0.6
+  },
+  {
+   "id": "g17u4xpw",
+   "name": "Ανιχνευτές",
+   "count": 0,
+   "coef": 0.9
+  },
+  {
+   "id": "g17u5o5d",
+   "name": "Βαθμοφόροι",
+   "count": 6,
+   "coef": 1
+  },
+  {
+   "id": "gp1vbyf",
+   "name": "Πρόσκοποι",
+   "count": 0,
+   "coef": 0.75
+  }
+ ],
+ "margin": 5,
+ "startDate": "2024-07-05",
+ "days": 2,
+ "dayOverride": {},
+ "plan": [
+  [
+   {
+    "home": false,
+    "items": []
+   },
+   {
+    "home": true,
+    "items": []
+   },
+   {
+    "home": true,
+    "items": []
+   },
+   {
+    "home": false,
+    "items": [
+     {
+      "r": "r17szetk",
+      "m": 1
+     }
+    ]
+   },
+   {
+    "home": false,
+    "items": [
+     {
+      "r": "r17u6tns",
+      "m": 1
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "home": false,
+    "items": [
+     {
+      "r": "r17sxkc9",
+      "m": 1
+     }
+    ]
+   },
+   {
+    "home": false,
+    "items": [
+     {
+      "r": "r111yg90",
+      "m": 1
+     }
+    ]
+   },
+   {
+    "home": false,
+    "items": [
+     {
+      "r": "r17tk437",
+      "m": 1
+     },
+     {
+      "r": "r17tv963",
+      "m": 1
+     }
+    ]
+   },
+   {
+    "home": false,
+    "items": []
+   },
+   {
+    "home": false,
+    "items": []
+   }
+  ]
+ ],
+ "dayGroups": {},
+ "checked": {
+  "i17ra2qs": 1,
+  "i17qixul": 1,
+  "i17sdhfl": 1
+ },
+ "have": {}
+}
