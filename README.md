@@ -59,3 +59,4 @@
 | [jsPDF](https://github.com/parallax/jsPDF) 2.5.1 | Δημιουργία PDF | MIT |
 | [html2canvas](https://html2canvas.hertzen.com) 1.4.1 | Απόδοση σελίδων για το PDF | MIT |
 # mageireio-kataskinosis
+# mageireio-kataskinosis
